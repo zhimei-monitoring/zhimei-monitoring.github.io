@@ -1,0 +1,42 @@
+
+_layouts/default.html
+
+{% include portfolio_grid.html %}
+{% include about.html %}
+{% include team.html %}
+{% include clients.html %}
+{% include contact.html %}
+
+
+
+
+纽约监控，CCTV 
+
+安装连设备4路特价 $500 
+
+全部采用高清5百万像素POE网络ip摄像头 
+专业安装家庭.商业闭路监控系统,
+
+8通道4镜头 1080P 500万像 安装连机 ￥499 
+
+专业安装家庭.商业闭路监控系统,手机监控BB&保母的一举一动,手机可以在全球监控家庭或公司即时过去的点点滴滴, 收费平, 采用智美监控摄像头公司产品, 所有闭路监控系统,全部都有中文,英文设定,包括手机APP软件,非常受华人喜爱, 
+
+套餐包括：
+1080P 500万像素高清摄像机 4个 专用Hard Disk NVR 高清1080P主机，$499 
+8路摄像头，16路 ，32路摄像头适合大型公寓，超市，仓库，办公室，和各种娱乐场所也能安装。
+
+免费报价。 
+预约电话 917-514-8608
+
+
+服务: 纽约、费城、滨州、监控安装 维修。楼宇布线，仓库大楼超市酒店监控系统安装
+
+详情
+
+电话：917-514-8608
+微信：wyy5553
+小红书：https://www.xiaohongshu.com/user/profile/6019676a0000000001009bc3?xsec_token=YB4LsDSx4l05fHwjvVNHgwe5ZZd8mOBpdD9lWa-qQHTFs=&xsec_source=app_share&xhsshare=CopyLink&appuid=666c6a280000000003030658&apptime=1747812111&share_id=84790a01bc574aa59c146e1cfcd953c2
+
+各式套餐：各种摄像头之像素、型号及数量，适合各种场所，价钱适宜
+全面配套：界面皆有中英文设定，手机APP软件随时随地连接，方便查看
+安全防范：随时监控家园环境，室内婴儿及保母一举一动，门口陌生人进出
